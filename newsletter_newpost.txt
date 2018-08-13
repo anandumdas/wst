@@ -1,0 +1,27 @@
+<div style="background-color: #f2f2f2; width: 55%; margin: auto; padding: 8px; border-radius: 8px;">
+<div style="font-size: 50px; text-align: center; font-family: Verdana, Geneva, sans-serif;"><strong>WST</strong></div>
+<div style="background-color: #2196f3; border-radius: 8px; padding: 1px; font-size: 16px;" align="center">
+
+<strong>New Post</strong>
+<div style="background-color: #ffffff; text-align: left; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 14px; padding: 8px;">
+
+Hello,
+
+We have published a new blog article on our website : <strong>{{POSTTITLE}}</strong>
+{{POSTIMAGE}}
+You can view it from this link : {{POSTLINK}}
+
+Thanks &amp; Regards,
+Admin
+
+</div>
+</div>
+</div>
+<div style="width: 55%; margin: auto; padding: 8px; text-align: center; font-size: 12px;">
+
+You received this email because in the past you have provided us your email address : {{EMAIL}} to receive notifications when new updates are posted.
+
+<hr />
+
+</div>
+<div style="text-align: center; font-size: 10px;"><img class="aligncenter wp-image-427" src="http://www.wst.space/wp-content/uploads/2018/07/wst_logo.png" alt="wst logo" width="101" height="54" /> © 2019 WST</div>
